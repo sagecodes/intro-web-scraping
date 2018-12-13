@@ -51,7 +51,9 @@ The goal of this brief course is to provide you with a fun introduction to web S
 
 
 ## About me:
-Hello I'm [Sage Elliott](http://sageelliott.com/). I'm a Technology Evangelist here at Galvanize! Previously I've worked as a software and hardware engineer with Startups and Agencies in Seattle, WA and Melbourne, FL. I love making things with technology! I'm not a Galvanize Instructor, they're way better at teaching!
+Hello I'm [Sage Elliott](http://sageelliott.com/). I'm a Technology Evangelist here at Galvanize! Previously I've worked as a software and hardware engineer with Startups and Agencies in Seattle, WA and Melbourne, FL. I love making things with technology! Currently learning more about computer vision with deep learning and helping a startup with a lane detection system for a self driving car application.
+
+ I'm not a Galvanize Instructor, they're way better at teaching!
 
 - Website: [sageelliott.com](http://sageelliott.com/)
 - Twitter: [@sagecodes](https://twitter.com/@sagecodes)
@@ -68,14 +70,29 @@ Give a quick Intro!
 - Why are you interested in Web Scraping?
 
 
-
-
 ## Web Scraping
 
 ### What is it?
+I usually describe it as using a program to get data from the web by pulling content without an API(Application Program Interface).
+
+Many sites have APIs you can connect to and use to pull data from.  Such as the [Twitter API](https://developer.twitter.com/en/docs.html). This is great! But sometimes you need data from a site that doesn't have an API. Thats what we're going to look at in this workshop. A lot of weather data can usually be pulled from an API.
+
 
 ### Where is it used?
 
+Really any where you think it would be appriate to gather data. 
+
+Some people I've met have built web scraper to look for jobs & find apartments.
+
+Companies may search for email or contact information
+
+Competitive analysis on a competing company, what prices do they have?
+
+Realtors may scrape housing listings
+
+Understand sentiment and words in reviews
+
+Anytime you want data!
 
 
 ## Before we build
@@ -87,9 +104,18 @@ Give a quick Intro!
 
 ### Python
 
-##### Beautiful Soup
+We're going to be using python to do our web scraping.
+
+Don't worry if you've never programmed in python or at all before, I will explain concepts along the way. And if you want me to repeat something just ask! We'll be doing an intro to python course in January too if you want to go deeper!
 
 ##### Requests
+
+##### Beautiful Soup
+
+We will use Beautiful Soup is used to parse HTML and extract the information we need.
+
+
+##### Pandas
 
 ##### Google Colab
 
@@ -117,6 +143,11 @@ Look at scraped data
 Regex for parsing li data
 
 Visualize data
+
+Text analysis
+
+# Recap | Summary
+
 
 ## Challenges
 
