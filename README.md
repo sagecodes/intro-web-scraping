@@ -87,9 +87,11 @@ Give a quick Intro!
 
 ### Python
 
-### Beautiful Soup
+##### Beautiful Soup
 
-### Google Colab
+##### Requests
+
+##### Google Colab
 
 
 ## Lets scrape data from the web!
@@ -98,18 +100,39 @@ Link to Colab notebook
 
 :Code snippet explanations:
 
+Look at data tags
+
+write code to get data
+
+Examples for 
+
+- table data
+- Headline data
+- Following links from pages
+
+
+
+Look at scraped data
+
+Regex for parsing li data
+
+Visualize data
+
 ## Challenges
 
 - Install Python and run this scraper locally
 - Scrape a different site
 - Visiualise your data in a different way
 - Save your data to a file or database
+- Sentiment analysis on headlines like Google news
 
 
 
 # Keep Learning
 :Resources:
 Free prep!!!
+
+Scrapy
 
 
 
