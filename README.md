@@ -140,7 +140,7 @@ See More tags [here](https://www.w3schools.com/tags/ref_byfunc.asp)
 Learn more HTML [here](https://www.w3schools.com/Html/)
 
 	
-### Inspect element of a web page
+#### Inspect element of a web page
 
 - Go to a web page
 - right click
@@ -167,57 +167,62 @@ We will use [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) is 
 
 We'll use [pandas](https://pandas.pydata.org/) to do some analysis and visulizations on our data 
 
+##### NLTK
+
+We'll use [NLTK](https://www.nltk.org/)(Natural Language Toolkit) to do some simple natural language processing on some text. 
+
 ##### Google Colab
+
+We'll use google collab as our editor. It comes preinstalled with everything we need.
 
 
 ## Lets scrape data from the web!
 
-Link to Colab notebook
+Here's what we will do!
 
-:Code snippet explanations:
-
-Look at data tags
-
-write code to get data
-
-Examples for 
-
-- table data
-- Headline data
-- Following links from pages
+- Look at data tags
+- write code to get data
+- Look at scraped data
+- get specific parts of the data
+- transform the data for different use case
+- minor visulizations for the data so we can understand it better
+- Basic Sentiment Analysis on headlines to see how negative they are
 
 
+#### Get Started:
 
-Look at scraped data
+- Open the notebook for this workshop [here](https://colab.research.google.com/drive/1UzyruU8hLorhEZb4RmHqh7pMQjt7mDeQ).
 
-Regex for parsing li data
+Make a copy by clicking `file` and `make copy` or `save to drive`
 
-Visualize data
 
-Text analysis
+# Awesome, you now know the basics of web scraping!
 
-# Recap | Summary
+Book mark this repo or the colla notebook and experiement with the code. Try a different website. 
 
 
 ## Challenges
 
 - Install Python and run this scraper locally
 - Scrape a different site
-- Visiualise your data in a different way
+- Visiualise your data better using [matplotlib](https://matplotlib.org/)
 - Save your data to a file or database
 - Sentiment analysis on headlines like Google news
 
 
-
 # Keep Learning
-:Resources:
-Free prep!!!
 
-Scrapy
+- [Free Data Science Prep](https://www.galvanize.com/data-science-prep)
 
 
 
-# upcoming events and courses
+- Checkout [Scrapy](https://scrapy.org/). Another python module foring doing web scraping. 
+
+- [deep learning dataset using google images](https://www.pyimagesearch.com/2017/12/04/how-to-create-a-deep-learning-dataset-using-google-images/)
+
+
+
+# Upcoming events and courses
 
 This is the last of our workshops for 2018!
 
