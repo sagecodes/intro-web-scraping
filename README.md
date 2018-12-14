@@ -98,24 +98,74 @@ Anytime you want data!
 ## Before we build
 
 ### HTML Basics
-	Tags
+
+HTML is one of the main building blocks of the web!
+
+###### Some common Tags(Elements):
+
+- `<html>`	designates an HTML document
+- `<head>`	contains undisplayed information about the document
+- `<title>`	Creates a title for the document
+- `<body>`	contains displayed information
+- `<header>, <main>, <footer>` denotes which part of the page elements belong
+
+- `<h1> - <h6>` create section headings (h1 biggest, h6 Smallest)
+- `<p>` creates paragraphs
+- `<a href=""></a>` (anchor), activates a link in the page
+- `<ul>, <ol>` creates lists
+  - `<li>` contains items in lists
+- `<br>`	Inserts a single line break
+
+
+###### Self-closing Tags:
+most HTML tags require an opening and a closing tag. There are a few however that do not:
+
+- `<img src="">` creates an image in the page
+- `<br>` creates a break in the content
+- `<input type="">` creates an input field
+- `<hr>`	Creates a line in the page 
+
+###### IDs, Classes
+IDs and classes are very similar.
+These are used to target specific elements(You'll see more examples in CSS section).
+- `<h1 id="profile-header"></h1>`
+- `<h1 class="subject-header"></h1>`
+
+- IDs should only be used once on a page. IDs can also be used to bring the user to a specific part of the page. `your-site/#profile-picture` will load the page near the profile picture. 
+- Classes can be used multiple times on a page. 
+
+
+See More tags [here](https://www.w3schools.com/tags/ref_byfunc.asp)
+
+Learn more HTML [here](https://www.w3schools.com/Html/)
+
 	
-	Inspect elements for planning
+### Inspect element of a web page
+
+- Go to a web page
+- right click
+- select `inspect element	`
+- you should not see a pop up or frame showing the HTML of a web page.
+
 
 ### Python
 
 We're going to be using python to do our web scraping.
 
-Don't worry if you've never programmed in python or at all before, I will explain concepts along the way. And if you want me to repeat something just ask! We'll be doing an intro to python course in January too if you want to go deeper!
+Don't worry if you've never programmed in python or at all before, I will explain concepts along the way. And if you want me to repeat something just ask! We'll be doing a free intro to python workshop in January too if you want to go deeper! Or go through our [free data science prep material](https://www.galvanize.com/data-science-prep).
 
 ##### Requests
 
+We will use the [Requests](http://docs.python-requests.org/en/master/) module to visit a URL and get web elements. 
+
 ##### Beautiful Soup
 
-We will use Beautiful Soup is used to parse HTML and extract the information we need.
+We will use [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) is used to parse HTML and extract the information we need.
 
 
 ##### Pandas
+
+We'll use [pandas](https://pandas.pydata.org/) to do some analysis and visulizations on our data 
 
 ##### Google Colab
 
