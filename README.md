@@ -259,8 +259,6 @@ Please feel free to reach out to me with any questions! Let me know what you're 
 - LinkedIn: [sageelliott](https://www.linkedin.com/in/sageelliott/) 
 - Email: [sage.elliott@galvanize.com](mailto:sage.elliott@galvanize.com)
 
-Questions about education at Galvanize SF email [learn@galvanize.com](mailto:learn@galvanize.com)
-
 
 
 
