@@ -218,40 +218,50 @@ Book mark this repo or the colla notebook and experiement with the code. Try a d
 
 - Checkout [Scrapy](https://scrapy.org/). Another python module foring doing web scraping. 
 
-- [deep learning dataset using google images](https://www.pyimagesearch.com/2017/12/04/how-to-create-a-deep-learning-dataset-using-google-images/)
 
 
 
-# Upcoming events and courses
+## Upcoming Events!
 
-This is the last of our workshops for 2018!
+We host so many events! check out our [calendar](https://www.galvanize.com/events)
+
+Visit the [Learn to code Seattle](https://www.meetup.com/Learn-Code-Seattle/) meetup for all upcoming events.
+
+
+## What is Galvanize?
+###### We are a community!
+
 
 #### Immersive Bootcamp
-- [Data Science](https://www.galvanize.com/seattle/data-science) - Jan22 - Apr19 & May6 - Aug2
 
-- [Software Engineer](https://www.galvanize.com/seattle/web-development) - Jan7 - May17 & Feb25 - Jul5
+- [Data Science](https://www.galvanize.com/data-science) - 5/6/19 - 8/2/19 
+
+- [Software Engineer](https://www.galvanize.com/web-development) - 2/19/19 - 5/17/19
 
 #### Part-Time Courses
-- [Data Analytics](https://www.galvanize.com/seattle/data-analytics) - Jan22 - Apr11
 
-- [Data Science Fundamentals](https://www.galvanize.com/seattle/data-science-fundamentals) - Feb20 - Mar29
+- [Data Analytics](https://www.galvanize.com/part-time/data-analytics) 2/12/19 - 5/2/19
+- [Python Fundamentals](https://www.galvanize.com/part-time/data-science-fundamentals) - 2/20/19 - 3/29/19
 
 #### Co-working Space
+
 [work in our building!](https://www.galvanize.com/entrepreneur)
 
+#### We are a community
 
-## Questions:
-Please feel free to reach out to me with any questions!
+## Questions
 
+Please feel free to reach out to me with any questions! Let me know what you're planning to do next and how I can help!
+
+
+- Website: [sageelliott.com](http://sageelliott.com/)
 - Twitter: [@sagecodes](https://twitter.com/@sagecodes)
 - LinkedIn: [sageelliott](https://www.linkedin.com/in/sageelliott/) 
 - Email: [sage.elliott@galvanize.com](mailto:sage.elliott@galvanize.com)
 
-#### About the Instructors
+Questions about education at Galvanize SF email [learn@galvanize.com](mailto:learn@galvanize.com)
 
-[Sage Elliott](https://www.linkedin.com/in/sageelliott/) is a technology evangelist for Galvanize based in Seattle. Previously he worked as a Software and hardware engineer for startup around Seattle WA and Melbourne Fl.
 
-You can email him at [sage.elliott@galvanize.com](mailto:age.elliott@galvanize.com) or tweet [@sagecodes](https://twitter.com/sagecodes) for any further questions.
 
 
 
