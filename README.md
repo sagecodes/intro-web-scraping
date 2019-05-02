@@ -210,9 +210,9 @@ Here's what we will do!
 - Basic Sentiment Analysis on headlines to see how Positive / Negative they are
 
 
-#### Get Started:
+### Get Started:
 
-- Open the notebook for this workshop [here](https://colab.research.google.com/drive/1UzyruU8hLorhEZb4RmHqh7pMQjt7mDeQ).
+- Open the notebook for this workshop [here](https://colab.research.google.com/drive/1UzyruU8hLorhEZb4RmHqh7pMQjt7mDeQ) or visit [scrapelab.sage.codes](scrapelab.sage.codes)
 
 Make a copy by clicking `file` and `make copy` or `save to drive`
 
