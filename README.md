@@ -1,12 +1,16 @@
 # Learn to Code: Introduction Web Scraping
 
-Brought to you by Galvanize. Learn more about the way we teach at [galvanize.com](http://galvanize.com).
+Learn more Data Science Basics with our free Prep course!
+http://bit.ly/gprepdata
+
+Start Learning Web Development with our free Prep course!
+http://bit.ly/gsoftprep
 
 Get to this repo by typing in URL: **scrape.sage.codes**
 
 ### FAQ: 
 
-- WIFI: `Galvanize Guest` | Password: `beapineapple`
+- WIFI: `Galvanize Guest` | Password posted on walls 
 - Bathrooms: Behind you down the hall to the left
 - Kitchen outside back classroom door with Coffee & Tea!
 - Snacks + water in back of room
