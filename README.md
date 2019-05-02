@@ -235,10 +235,13 @@ Book mark this repo or the colla notebook and experiement with the code. Try a d
 
 # Keep Learning
 
-- [Free Data Science Prep](https://www.galvanize.com/data-science-prep)
+
+Learn more Data Science Basics with our [free Prep course](http://bit.ly/gprepdata)!
+
+Start Learning Web Development with our [free Prep course](http://bit.ly/gsoftprep)!
 
 
-- Checkout [Scrapy](https://scrapy.org/). Another python module foring doing web scraping. 
+Checkout [Scrapy](https://scrapy.org/). Another python module foring doing web scraping. 
 
 
 
@@ -249,26 +252,42 @@ We host so many events! check out our [calendar](https://www.galvanize.com/event
 Visit the [Learn to code Seattle](https://www.meetup.com/Learn-Code-Seattle/) meetup for all upcoming events.
 
 
-## What is Galvanize?
-###### We are a community!
+# What is Galvanize?
 
+> We create a technology ecosystem for learners, entrepreneurs, startups and established companies to meet the needs of the rapidly changing digital world.
+
+![](https://github.com/sagecodes/intro-data-science/raw/master/campus.png)
+
+- Education
+- Co-Working
+- Events
+- Enterprise
+
+
+## Galvanize Classes
 
 #### Immersive Bootcamp
 
-- [Data Science](https://www.galvanize.com/data-science) - 5/6/19 - 8/2/19 
+Transform your career with our 13 week immersive programs
 
-- [Software Engineer](https://www.galvanize.com/web-development) - 2/19/19 - 5/17/19
+- [Software Engineer](http://bit.ly/seawebdev) - 6/3/19 - 10/11/19
+- [Data Science](http://bit.ly/seadatascience) - 5/6/19 - 8/2/19
+
 
 #### Part-Time Courses
 
-- [Data Analytics](https://www.galvanize.com/part-time/data-analytics) 2/12/19 - 5/2/19
-- [Python Fundamentals](https://www.galvanize.com/part-time/data-science-fundamentals) - 2/20/19 - 3/29/19
+Learn while working with out evening part-time classes
+
+- [Intro to Data Science](http://bit.ly/seaintrods) - 5/7/19 - 6/27/19
+
+- [Digital Marketing](http://bit.ly/seadm) - 5/13/19 - 7/3/19
+
+- [Data Analytics](http://bit.ly/seadataa) - 5/6/19 - 7/24/19
 
 #### Co-working Space
 
 [work in our building!](https://www.galvanize.com/entrepreneur)
 
-#### We are a community
 
 ## Questions
 
