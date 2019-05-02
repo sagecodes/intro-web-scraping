@@ -31,7 +31,6 @@ You can't learn EVERYTHING in ~2 hours. But you can learn enough to get excited 
 
 
 
-
 ## Setting up your computer
 
 
@@ -39,25 +38,34 @@ You can't learn EVERYTHING in ~2 hours. But you can learn enough to get excited 
 
 * A web browser to see what we're working on as others see it (Recommend Google Chrome: [chrome.google.com] (http://chrome.google.com))
 
-* We will be using an online text editor for this workshop. You can sign up here: [https://repl.it/](https://repl.it/)
-
+* We will be using an online text editor and Data Science Enviroment for this workshop. Called Google Colab. You will need a google account if you want to save / edit your work.
 
 Well... that was easy! 
 
 
-## Overview
-The goal of this brief course is to provide you with a fun introduction to web Scraping Python.
-
 #### Here's what we'll be doing:
 * A primer on some technologies we're going to use
 * Building a simple web scraper with Python
-* I'll leave you with a coupl challenges at the end. You can try to complete them here if we have time, or try them at home!
+* Learn how to use that Data
+* I'll leave you with a couple challenges at the end. You can try to complete them here if we have time, or try them at home!
 
 
 ## About me:
-Hello I'm [Sage Elliott](http://sageelliott.com/). I'm a Technology Evangelist here at Galvanize! Previously I've worked as a software and hardware engineer with Startups and Agencies in Seattle, WA and Melbourne, FL. I love making things with technology! Currently learning more about computer vision with deep learning and helping a startup with a lane detection system for a self driving car application.
+Hello I'm [Sage Elliott](http://sageelliott.com/). I'm a Technology Evangelist here at Galvanize! Previously I've worked as a software and hardware engineer with Startups and Agencies in Seattle, WA and Melbourne, FL. I love making things with technology! 
 
- I'm not a Galvanize Instructor, they're way better at teaching!
+I'll actually be making a web scraper soon to get images of houses for a GAN project!
+
+**Note:** I'm not a Galvanize Instructor, they're way better at teaching! 
+
+Reach out to me if interested in:
+
+- breaking into the tech industry 
+- learning resources
+- meetup recommendations 
+- learning more about Galvanize
+- giving me suggestions for events!
+- being friends
+
 
 - Website: [sageelliott.com](http://sageelliott.com/)
 - Twitter: [@sagecodes](https://twitter.com/@sagecodes)
@@ -97,6 +105,11 @@ Realtors may scrape housing listings
 Understand sentiment and words in reviews
 
 Anytime you want data!
+
+### Consider the Ethics
+
+
+https://towardsdatascience.com/ethics-in-web-scraping-b96b18136f01
 
 
 ## Before we build
@@ -156,41 +169,45 @@ Learn more HTML [here](https://www.w3schools.com/Html/)
 
 We're going to be using python to do our web scraping.
 
-Don't worry if you've never programmed in python or at all before, I will explain concepts along the way. And if you want me to repeat something just ask! We'll be doing a free intro to python workshop in January too if you want to go deeper! Or go through our [free data science prep material](https://www.galvanize.com/data-science-prep).
+Don't worry if you've never programmed in python or at all before, I will explain concepts along the way. And if you want me to repeat something just ask!
+
+Learn python in our prep courses! http://bit.ly/gprepdata
+
+### Python Libraries We're going to use
 
 ##### Requests
 
-We will use the [Requests](http://docs.python-requests.org/en/master/) module to visit a URL and get web elements. 
+We will use the [Requests](http://docs.python-requests.org/en/master/) module to visit a URL and get web a webpage. 
 
 ##### Beautiful Soup
 
-We will use [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) is used to parse HTML and extract the information we need.
+We will use [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) is used to parse HTML and extract the information we need from our web page.
 
 
 ##### Pandas
 
-We'll use [pandas](https://pandas.pydata.org/) to do some analysis and visulizations on our data 
+We'll use [pandas](https://pandas.pydata.org/) to do some analysis and visulizations on our data. 
 
 ##### NLTK
 
 We'll use [NLTK](https://www.nltk.org/)(Natural Language Toolkit) to do some simple natural language processing on some text. 
 
-##### Google Colab
+### Google Colab
 
-We'll use google collab as our editor. It comes preinstalled with everything we need.
+We'll use [google collab](https://colab.research.google.com) as our editor. It comes pre-installed with everything we need for this workshop.
 
 
 ## Lets scrape data from the web!
 
 Here's what we will do!
 
-- Look at data tags
+- Look at html tags for the data we want
 - write code to get data
 - Look at scraped data
 - get specific parts of the data
-- transform the data for different use case
+- transform the data for different use cases
 - minor visulizations for the data so we can understand it better
-- Basic Sentiment Analysis on headlines to see how negative they are
+- Basic Sentiment Analysis on headlines to see how Positive / Negative they are
 
 
 #### Get Started:
@@ -200,7 +217,9 @@ Here's what we will do!
 Make a copy by clicking `file` and `make copy` or `save to drive`
 
 
-# Awesome, you now know the basics of web scraping!
+# Awesome
+
+You now know some basics of web scraping and transforming the data so you can use
 
 Book mark this repo or the colla notebook and experiement with the code. Try a different website. 
 
@@ -209,19 +228,17 @@ Book mark this repo or the colla notebook and experiement with the code. Try a d
 
 - Install Python and run this scraper locally
 - Scrape a different site
-- Visiualise your data better using [matplotlib](https://matplotlib.org/)
+- Visiualise your data better using more features of [matplotlib](https://matplotlib.org/)
 - Save your data to a file or database
-- Sentiment analysis on headlines like Google news
-
+- Sentiment analysis on real headlines
+- Scrape all pages that are linked together
 
 # Keep Learning
 
 - [Free Data Science Prep](https://www.galvanize.com/data-science-prep)
 
 
-
 - Checkout [Scrapy](https://scrapy.org/). Another python module foring doing web scraping. 
-
 
 
 
