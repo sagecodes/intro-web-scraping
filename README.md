@@ -36,7 +36,7 @@ You can't learn EVERYTHING in ~2 hours. But you can learn enough to get excited 
 
 #### Please set up the following:
 
-* A web browser to see what we're working on as others see it (Recommend Google Chrome: [chrome.google.com] (http://chrome.google.com))
+* A web browser to see what we're working on as others see it (Recommend Google Chrome: [chrome.google.com](http://chrome.google.com)
 
 * We will be using an online text editor and Data Science Enviroment for this workshop. Called Google Colab. You will need a google account if you want to save / edit your work.
 
@@ -213,7 +213,7 @@ Here's what we will do!
 
 ### Get Started:
 
-- Open the notebook for this workshop [here](https://colab.research.google.com/drive/1UzyruU8hLorhEZb4RmHqh7pMQjt7mDeQ) or visit [scrapelab.sage.codes](scrapelab.sage.codes)
+- Open the notebook for this workshop [here](https://colab.research.google.com/drive/1UzyruU8hLorhEZb4RmHqh7pMQjt7mDeQ) or visit [scrapelab.sage.codes](https://colab.research.google.com/drive/1UzyruU8hLorhEZb4RmHqh7pMQjt7mDeQ#scrollTo=rQ6eLwLS5sld)
 
 Make a copy by clicking `file` and `make copy` or `save to drive`
 
