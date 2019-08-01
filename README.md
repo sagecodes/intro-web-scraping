@@ -1,10 +1,10 @@
 # Learn to Code: Introduction Web Scraping
 
 Learn more Data Science Basics with our free Prep course!
-http://bit.ly/gprepdata
+[http://bit.ly/gprepdata](http://bit.ly/gprepdata)
 
 Start Learning Web Development with our free Prep course!
-http://bit.ly/gsoftprep
+[http://bit.ly/gsoftprep](http://bit.ly/gsoftprep)
 
 Get to this repo by typing in URL: **scrape.sage.codes**
 
@@ -108,13 +108,14 @@ Anytime you want data!
 
 ### Consider the Ethics
 
+read sites terms of serive and robot files
 
 https://towardsdatascience.com/ethics-in-web-scraping-b96b18136f01
 
 
 ## Before we build
 
-### HTML Basics
+### HTML Primer
 
 HTML is one of the main building blocks of the web!
 
@@ -245,11 +246,17 @@ Checkout [Scrapy](https://scrapy.org/). Another python module foring doing web s
 
 
 
+
+
 ## Upcoming Events!
 
 We host so many events! check out our [calendar](https://www.galvanize.com/events)
 
 Visit the [Learn to code Seattle](https://www.meetup.com/Learn-Code-Seattle/) meetup for all upcoming events.
+
+
+- [intro to machine learning](https://www.eventbrite.com/e/intro-to-machine-learning-free-tickets-66412147521) 8/7/19 6:30pm
+
 
 
 # What is Galvanize?
@@ -270,19 +277,19 @@ Visit the [Learn to code Seattle](https://www.meetup.com/Learn-Code-Seattle/) me
 
 Transform your career with our 13 week immersive programs
 
-- [Software Engineer](http://bit.ly/seawebdev) - 6/3/19 - 10/11/19
+- [Software Engineer](http://bit.ly/seawebdev) - (9/3/19 - 11/29/19), (10/21/19 - 1/24/2020)
 - [Data Science](http://bit.ly/seadatascience) - 5/6/19 - 8/2/19
 
 
-#### Part-Time Courses
+<!--#### Part-Time Courses
 
 Learn while working with out evening part-time classes
 
-- [Intro to Data Science](http://bit.ly/seaintrods) - 5/7/19 - 6/27/19
+- [Intro to Data Science](http://bit.ly/seaintrods) - 9/3/19 - 11/29/19
 
 - [Digital Marketing](http://bit.ly/seadm) - 5/13/19 - 7/3/19
 
-- [Data Analytics](http://bit.ly/seadataa) - 5/6/19 - 7/24/19
+- [Data Analytics](http://bit.ly/seadataa) - 5/6/19 - 7/24/19-->
 
 #### Co-working Space
 
