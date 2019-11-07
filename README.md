@@ -250,12 +250,17 @@ Checkout [Scrapy](https://scrapy.org/). Another python module foring doing web s
 
 ## Upcoming Events!
 
-We host so many events! check out our [calendar](https://www.galvanize.com/events)
-
 Visit the [Learn to code Seattle](https://www.meetup.com/Learn-Code-Seattle/) meetup for all upcoming events.
 
+- [Intro to Web Scraping](https://www.eventbrite.com/e/intro-to-web-scraping-with-python-for-data-science-free-tickets-78222735307) - 11/6/19
 
-- [intro to machine learning](https://www.eventbrite.com/e/intro-to-machine-learning-free-tickets-66412147521) 8/7/19 6:30pm
+- [Data Science Demo Day](https://www.eventbrite.com/e/galvanize-seattle-data-science-demo-day-111419-tickets-72309552819) - 11/14/19
+
+- [Intro to SQL](https://www.eventbrite.com/e/intro-to-sql-free-tickets-78226727247) - 11/14/19
+
+- [Intro to Machine Learning with Python](https://www.eventbrite.com/e/intro-to-machine-learning-free-tickets-78301755659) - 11/20/19
+
+- [Breaking into Software Engineering / Web Development Discussion Panel](https://www.eventbrite.com/e/break-into-software-engineering-alumni-discussion-panel-seattle-tickets-72146364719) - 11/25/19
 
 
 
@@ -275,21 +280,22 @@ Visit the [Learn to code Seattle](https://www.meetup.com/Learn-Code-Seattle/) me
 
 #### Immersive Bootcamp
 
-Transform your career with our 13 week immersive programs
+Transform your career with our immersive programs
 
-- [Software Engineer](http://bit.ly/seawebdev) - (9/3/19 - 11/29/19), (10/21/19 - 1/24/2020)
-- [Data Science](http://bit.ly/seadatascience) - 5/6/19 - 8/2/19
+- [Software Engineer](http://bit.ly/seawebdev) - 12/09/19 & 2/10/2020
+- [Data Science](http://bit.ly/seadatascience) - 12/2/19 & 3/16/2020
+
+Remote options:
+
+check out [Galvanize.com](https://www.galvanize.com/)
 
 
-<!--#### Part-Time Courses
+#### Part-Time Courses
 
 Learn while working with out evening part-time classes
 
-- [Intro to Data Science](http://bit.ly/seaintrods) - 9/3/19 - 11/29/19
+[Galvanize.com](https://www.galvanize.com/)
 
-- [Digital Marketing](http://bit.ly/seadm) - 5/13/19 - 7/3/19
-
-- [Data Analytics](http://bit.ly/seadataa) - 5/6/19 - 7/24/19-->
 
 #### Co-working Space
 
@@ -305,7 +311,6 @@ Please feel free to reach out to me with any questions! Let me know what you're 
 - Twitter: [@sagecodes](https://twitter.com/@sagecodes)
 - LinkedIn: [sageelliott](https://www.linkedin.com/in/sageelliott/) 
 - Email: [sage.elliott@galvanize.com](mailto:sage.elliott@galvanize.com)
-
 
 
 
