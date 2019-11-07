@@ -92,9 +92,9 @@ Many sites have APIs you can connect to and use to pull data from.  Such as the 
 
 ### Where is it used?
 
-Really any where you think it would be appriate to gather data. 
+Really any where you think it would be appropriate to gather data. 
 
-Some people I've met have built web scraper to look for jobs & find apartments.
+Some people I've know have built web scraper to look for jobs & find apartments.
 
 Companies may search for email or contact information
 
@@ -242,7 +242,16 @@ Learn more Data Science Basics with our [free Prep course](http://bit.ly/gprepda
 Start Learning Web Development with our [free Prep course](http://bit.ly/gsoftprep)!
 
 
-Checkout [Scrapy](https://scrapy.org/). Another python module foring doing web scraping. 
+### More powerful scraping!
+
+Checkout [Scrapy](https://scrapy.org/).
+
+>An open source and collaborative framework for extracting the data you need from websites.
+In a fast, simple, yet extensible way.
+
+Checkout [selenium](https://www.seleniumhq.org/)
+
+>Selenium automates browsers. That's it! What you do with that power is entirely up to you. Primarily, it is for automating web applications for testing purposes, but is certainly not limited to just that. Boring web-based administration tasks can (and should!) be automated as well.
 
 
 
