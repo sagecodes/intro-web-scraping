@@ -213,7 +213,7 @@ Here's what we will do!
 
 ### Get Started:
 
-- Open the notebook for this workshop [here](https://colab.research.google.com/drive/1UzyruU8hLorhEZb4RmHqh7pMQjt7mDeQ) or visit [scrapelab.sage.codes](scrapelab.sage.codes)
+- Open the notebook for this workshop [here](https://colab.research.google.com/drive/1UzyruU8hLorhEZb4RmHqh7pMQjt7mDeQ) or visit [scrapelab.sage.codes](https://colab.research.google.com/drive/1UzyruU8hLorhEZb4RmHqh7pMQjt7mDeQ)
 
 Make a copy by clicking `file` and `make copy` or `save to drive`
 
@@ -222,7 +222,7 @@ Make a copy by clicking `file` and `make copy` or `save to drive`
 
 You now know some basics of web scraping and transforming the data so you can use
 
-Book mark this repo or the colla notebook and experiement with the code. Try a different website. 
+Book mark this repo or the collab notebook and experiement with the code. Try a different website. 
 
 
 ## Challenges
